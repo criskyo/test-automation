@@ -23,4 +23,5 @@ public class Hooks {
     public static ChromeDriver getDriver() {
         return driver;
     }
+    /***/
 }
